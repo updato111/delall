@@ -4,8 +4,8 @@ from pyrogram import Client, enums
 import time
 
 # api_id and api_hash wich you can get in https://my.telegram.org/. Create your app and get it.
-api_id = # Your api_id in int format, like - 1234567
-api_hash = # Your api_hash in str format like - 'deadbeef1337600613'
+api_id = 24638763 # Your api_id in int format, like - 1234567
+api_hash = 'e02a72843ababb75de3c4f3aa2ce8d75' # Your api_hash in str format like - 'deadbeef1337600613'
 
 app = Client('ses', api_id, api_hash)
 
